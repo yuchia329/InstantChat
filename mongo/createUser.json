@@ -1,5 +1,0 @@
-{
-  user:"yuchia",
-  pwd:"1234",
-  roles:["readWrite","dbAdmin"]
-}
